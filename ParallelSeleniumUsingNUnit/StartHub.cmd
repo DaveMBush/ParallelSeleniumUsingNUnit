@@ -1,0 +1,1 @@
+﻿"C:\Program Files (x86)\java\jre7\bin\java.exe" -jar selenium-server-standalone-2.44.0.jar -role hub

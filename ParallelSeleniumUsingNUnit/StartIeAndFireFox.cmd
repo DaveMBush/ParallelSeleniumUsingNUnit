@@ -1,0 +1,1 @@
+﻿"C:\Program Files (x86)\java\jre7\bin\java.exe" -jar selenium-server-standalone-2.44.0.jar -role node -hub http://localhost:4444/grid/register/ -browser browserName=firefox,maxInstances=5,platform=WINDOWS -browser browserName="internet explorer",version=11,maxInstances=5,platform=WINDOWS, -Dwebdriver.ie.driver=c:\Selenium\IEDriverServer.exe
